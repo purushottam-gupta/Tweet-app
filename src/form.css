@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.colour{
+    height: 100vh;
+    align-items: center;
+    /* background-color: grey; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(160deg, #16c9f6 55%,#fff 0%);
+    overflow: hidden;
+}
+
+/* .colour2{
+    background: linear-gradient(160deg, #16c9f6 80%,#fff 0%);
+    overflow: hidden;
+} */
